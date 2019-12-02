@@ -14,9 +14,17 @@
 },
 {
     "id": 2,
-    "nom": "Doe",
-    "prenom": "John",
-    "photo": "john.png"
+    "nom": "Dostoïevski",
+    "prenom": "Fiodor",
+    "date_de_naissance": "30 octobre 1821",
+    "lieu_de_naissance": "Moscou",
+    "date_de_deces": "28 janvier 1881",
+    "lieu_de_deces": "Saint-Pétersbourg",
+    "photo": "dostoievski.jpg",
+    "oeuvres_majeures": "Les Frères Karamazov - Crime et Châtiment - L'idiot - Le Joueur",
+    "citation1": "\"La beauté sauvera le monde.\" - L'Idiot",
+    "citation2": "\"Si Dieu n'existe pas, tout est permis.\" - Les Frères Karamazov",
+    "citation3": "\"L'homme est malheureux parce qu'il ne sait pas qu'il est heureux.\" - Les Démons"
 },
 {
     "id": 3,

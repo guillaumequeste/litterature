@@ -7,7 +7,7 @@
     <p>{{ auteurCitation1 }}</p>
     <p>{{ auteurCitation2 }}</p>
     <p>{{ auteurCitation3 }}</p>
-    <p>Photo : <img :src="require( `../assets/${this.auteurPhoto}`)" class="photo"/></p>
+    <p><img :src="require( `../assets/${this.auteurPhoto}`)" class="photo"/></p>
   </div>
 </template>
 
@@ -40,7 +40,7 @@ export default {
   background-color: rgb(207, 18, 18);
 }
 .photo {
-  width: 15vw;
+  width: 18vw;
   height: 40vh;
 }
 </style>
