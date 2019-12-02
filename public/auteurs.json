@@ -1,0 +1,35 @@
+[{
+    "id": 1,
+    "nom": "Baudelaire",
+    "prenom": "Charles",
+    "date_de_naissance": "9 avril 1821",
+    "lieu_de_naissance": "Paris",
+    "date_de_deces": "31 août 1867",
+    "lieu_de_deces": "Paris",
+    "photo": "baudelaire.jpg",
+    "oeuvres_majeures": "Les Fleurs du Mal - Le Spleen de Paris",
+    "citation1": "\"Mon enfant, songe à la douceur d'aller là-bas vivre ensemble ; aimer à loisir, aimer et mourir, au pays qui te ressemble !\" - L'invitation au voyage (1857)",
+    "citation2": "\"Il me semble que je serais toujours bien là où je ne suis pas.\" - Le spleen de Paris, N'importe où hors du monde (posthume, 1869)",
+    "citation3": "\"C'est par le malentendu universel que tout le monde s'accorde.\" - Mon cœur mis à nu, journal intime (1864)"
+},
+{
+    "id": 2,
+    "nom": "Doe",
+    "prenom": "John",
+    "photo": "john.png"
+},
+{
+    "id": 3,
+    "nom": "Shakespeare",
+    "prenom": "William",
+    "date_de_naissance": "26 avril 1564",
+    "lieu_de_naissance": "Stratford-upon-Avon",
+    "date_de_deces": "23 avril 1616",
+    "lieu_de_deces": "Stratford-upon-Avon",
+    "photo": "shakespeare.jpg",
+    "oeuvres_majeures": "Roméo et Juliette - Hamlet, prince de Danemark - Macbeth - Othello ou le maure de Venise - Le Roi Lear",
+    "citation1": "\"Etre ou ne pas être : telle est la question\" - Hamlet, acte III, scène 1 (1601)",
+    "citation2": "\"Il me semble que je serais toujours bien là où je ne suis pas.\" - Le spleen de Paris, N'importe où hors du monde (posthume, 1869)",
+    "citation3": "\"C'est par le malentendu universel que tout le monde s'accorde.\" - Mon cœur mis à nu, journal intime (1864)"
+}
+]
