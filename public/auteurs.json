@@ -8,9 +8,12 @@
     "lieu_de_deces": "Paris",
     "photo": "baudelaire.jpg",
     "oeuvres_majeures": "Les Fleurs du Mal - Le Spleen de Paris",
-    "citation1": "\"Mon enfant, songe à la douceur d'aller là-bas vivre ensemble ; aimer à loisir, aimer et mourir, au pays qui te ressemble !\" - L'invitation au voyage (1857)",
-    "citation2": "\"Il me semble que je serais toujours bien là où je ne suis pas.\" - Le spleen de Paris, N'importe où hors du monde (posthume, 1869)",
-    "citation3": "\"C'est par le malentendu universel que tout le monde s'accorde.\" - Mon cœur mis à nu, journal intime (1864)"
+    "citation1": "\"Mon enfant, songe à la douceur d'aller là-bas vivre ensemble ; aimer à loisir, aimer et mourir, au pays qui te ressemble !\"",
+    "oeuvreCitation1": "L'invitation au voyage (1857)",
+    "citation2": "\"Il me semble que je serais toujours bien là où je ne suis pas.\"",
+    "oeuvreCitation2": "Le spleen de Paris, N'importe où hors du monde (posthume, 1869)",
+    "citation3": "\"C'est par le malentendu universel que tout le monde s'accorde.\"",
+    "oeuvreCitation3": "Mon cœur mis à nu, journal intime (1864)"
 },
 {
     "id": 2,
@@ -22,9 +25,12 @@
     "lieu_de_deces": "Saint-Pétersbourg",
     "photo": "dostoievski.jpg",
     "oeuvres_majeures": "Les Frères Karamazov - Crime et Châtiment - L'idiot - Le Joueur",
-    "citation1": "\"La beauté sauvera le monde.\" - L'Idiot",
-    "citation2": "\"Si Dieu n'existe pas, tout est permis.\" - Les Frères Karamazov",
-    "citation3": "\"L'homme est malheureux parce qu'il ne sait pas qu'il est heureux.\" - Les Démons"
+    "citation1": "\"La beauté sauvera le monde.\"",
+    "oeuvreCitation1": "L'idiot",
+    "citation2": "\"Si Dieu n'existe pas, tout est permis.\"",
+    "oeuvreCitation2": "Les Frères Karamazov",
+    "citation3": "\"L'homme est malheureux parce qu'il ne sait pas qu'il est heureux.\"",
+    "oeuvreCitation3": "Les Démons"
 },
 {
     "id": 3,
@@ -36,8 +42,11 @@
     "lieu_de_deces": "Stratford-upon-Avon",
     "photo": "shakespeare.jpg",
     "oeuvres_majeures": "Roméo et Juliette - Hamlet, prince de Danemark - Macbeth - Othello ou le maure de Venise - Le Roi Lear",
-    "citation1": "\"Etre ou ne pas être : telle est la question\" - Hamlet, acte III, scène 1 (1601)",
-    "citation2": "\"Il me semble que je serais toujours bien là où je ne suis pas.\" - Le spleen de Paris, N'importe où hors du monde (posthume, 1869)",
-    "citation3": "\"C'est par le malentendu universel que tout le monde s'accorde.\" - Mon cœur mis à nu, journal intime (1864)"
+    "citation1": "\"Etre ou ne pas être : telle est la question\"",
+    "oeuvreCitation1": "Hamlet, acte 3, scène 1 (1601)",
+    "citation2": "\"L'amour ne voit pas avec les yeux, mais avec l'âme.\"",
+    "oeuvreCitation2": "Songe d'une nuit d'été (1595)",
+    "citation3": "\"Ce qu'on a fait est fait et ne peut se défaire !\"",
+    "oeuvreCitation3": "Macbeth (1605)"
 }
 ]
