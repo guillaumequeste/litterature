@@ -33,6 +33,23 @@
     "oeuvreCitation3": "Les Démons"
 },
 {
+    "id": 600,
+    "nom": "Gogol",
+    "prenom": "Nicolas",
+    "date_de_naissance": "20 mars 1809",
+    "lieu_de_naissance": "Sorotchintsy",
+    "date_de_deces": "21 février 1852",
+    "lieu_de_deces": "Moscou",
+    "photo": "gogol.jpg",
+    "oeuvres_majeures": "Nouvelles de Pétersbourg (Le nez, Le Journal d'un Fou...) - Les Ames mortes - Tarass Boulba - Le Révizor",
+    "citation1": "\"Ah, les Russes ! Ils n’aiment vraiment pas mourir de mort naturelle.\"",
+    "oeuvreCitation1": "Les Ames mortes",
+    "citation2": "\"Aujourd’hui, toute nullité parvenue se prend pour un aristocrate.\"",
+    "oeuvreCitation2": "Le Révizor",
+    "citation3": "\"L'homme est sage, intelligent et raisonnable en tout ce qui concerne les autres, mais pas en ce qui le touche lui-même.\"",
+    "oeuvreCitation3": ""
+},
+{
     "id": 1200,
     "nom": "Molière",
     "prenom": "(Jean-Baptiste Poquelin)",
@@ -48,6 +65,23 @@
     "oeuvreCitation2": "Les Femmes savantes (1672)",
     "citation3": "\"On ne meurt qu'une fois, et c'est pour si longtemps !\"",
     "oeuvreCitation3": "Le Dépit amoureux (1656)"
+},
+{
+    "id": 1500,
+    "nom": "Pouchkine",
+    "prenom": "Alexandre",
+    "date_de_naissance": "26 mai 1799",
+    "lieu_de_naissance": "Moscou",
+    "date_de_deces": "29 janvier 1837",
+    "lieu_de_deces": "Saint-Pétersbourg",
+    "photo": "pouchkine.jpg",
+    "oeuvres_majeures": "Eugène Onéguine - Boris Godounov - Poésies - L'or et l'épée",
+    "citation1": "\"L'habitude est l'âme des Etats.\"",
+    "oeuvreCitation1": "Boris Godounov",
+    "citation2": "\"Ce que nous recherchons, c'est le fruit défendu. Sans lui, le Paradis n'est pas pour nous le Paradis.\"",
+    "oeuvreCitation2": "Eugène Onéguine",
+    "citation3": "\"'J'achèterai tout', a dit l'or ; 'Je prendrai tout', a dit l'épée.\"",
+    "oeuvreCitation3": "L'or et l'épée."
 },
 {
     "id": 1700,
