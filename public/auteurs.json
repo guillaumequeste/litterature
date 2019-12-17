@@ -127,11 +127,28 @@
     "lieu_de_deces": "Stratford-upon-Avon",
     "photo": "shakespeare.jpg",
     "oeuvres_majeures": "Roméo et Juliette - Hamlet, prince de Danemark - Macbeth - Othello ou le maure de Venise - Le Roi Lear",
-    "citation1": "\"Etre ou ne pas être : telle est la question\"",
+    "citation1": "\"Etre ou ne pas être : telle est la question.\"",
     "oeuvreCitation1": "Hamlet, acte 3, scène 1 (1601)",
     "citation2": "\"L'amour ne voit pas avec les yeux, mais avec l'âme.\"",
     "oeuvreCitation2": "Songe d'une nuit d'été (1595)",
     "citation3": "\"Ce qu'on a fait est fait et ne peut se défaire !\"",
     "oeuvreCitation3": "Macbeth (1605)"
+},
+{
+    "id": 2100,
+    "nom": "Valéry",
+    "prenom": "Paul",
+    "date_de_naissance": "30 octobre 1871",
+    "lieu_de_naissance": "Sète",
+    "date_de_deces": "20 juillet 1945",
+    "lieu_de_deces": "Paris",
+    "photo": "paul_valery.jpg",
+    "oeuvres_majeures": "Introduction à la méthode de Léonard de Vinci - La Soirée avec Monsieur Teste - La Jeune Parque - Charmes - Degas Danse Dessin",
+    "citation1": "\"Le diplôme est l'ennemi mortel de la culture.\"",
+    "oeuvreCitation1": "",
+    "citation2": "\"Un chef est un homme qui a besoin des autres.\"",
+    "oeuvreCitation2": "Mauvaises pensées et autres",
+    "citation3": "\"Les hommes se distinguent par ce qu'ils montrent et se ressemblent par ce qu'ils cachent.\"",
+    "oeuvreCitation3": "Mélange"
 }
 ]

@@ -40,7 +40,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Petit+Formal+Script|Oxygen&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Petit+Formal+Script|Courgette|Oxygen&display=swap');
 .auteur {
   min-height: 92vh;
   background-color: rgb(207, 18, 18);

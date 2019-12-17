@@ -42,7 +42,7 @@ export default {
 .lienAuteurs {
   color: white;
   text-decoration: none;
-  font-family: 'Petit Formal Script', cursive, sans-serif;
+  font-family: 'Courgette', cursive, sans-serif;
   font-size: 1em;
 }
 .lienAuteurs:hover {
