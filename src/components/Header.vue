@@ -39,4 +39,7 @@ export default {
 .nav-link {
   color: white !important;
 }
+.nav-link:hover {
+  color: black !important;
+}
 </style>
