@@ -1,5 +1,5 @@
 [{
-    "id": 1,
+    "id": 100,
     "nom": "Baudelaire",
     "prenom": "Charles",
     "date_de_naissance": "9 avril 1821",
@@ -16,7 +16,7 @@
     "oeuvreCitation3": "Mon cœur mis à nu, journal intime (1864)"
 },
 {
-    "id": 2,
+    "id": 300,
     "nom": "Dostoïevski",
     "prenom": "Fiodor",
     "date_de_naissance": "30 octobre 1821",
@@ -33,7 +33,24 @@
     "oeuvreCitation3": "Les Démons"
 },
 {
-    "id": 3,
+    "id": 1200,
+    "nom": "Molière",
+    "prenom": "(Jean-Baptiste Poquelin)",
+    "date_de_naissance": "15 janvier 1622 (baptisé)",
+    "lieu_de_naissance": "Paris",
+    "date_de_deces": "17 février 1673",
+    "lieu_de_deces": "Paris",
+    "photo": "moliere.jpg",
+    "oeuvres_majeures": "Les Précieuses ridicules - L'Ecole des Femmes - Dom Juan ou le festin de Pierre - Le Misanthrope - Amphhytrion - L'Avare - Le Tartuffe - Le Dépit amoureux - Le Médecin malgré lui - Les Fourberies de Scapin - Les Femmes savantes - Le Malade imaginaire - Le Bourgeois gentilhomme",
+    "citation1": "\"L'hypocrisie est un vice  à la mode, et tous les vices à la mode passent pour vertus.\"",
+    "oeuvreCitation1": "Dom Juan (1665)",
+    "citation2": "\"Un sot savant est sot plus qu'un sot ignorant.\"",
+    "oeuvreCitation2": "Les Femmes savantes (1672)",
+    "citation3": "\"On ne meurt qu'une fois, et c'est pour si longtemps !\"",
+    "oeuvreCitation3": "Le Dépit amoureux (1656)"
+},
+{
+    "id": 1800,
     "nom": "Shakespeare",
     "prenom": "William",
     "date_de_naissance": "26 avril 1564",

@@ -32,12 +32,15 @@ export default {
 .navbar {
   height: 8vh;
   background-color: rgb(175, 18, 18);
+  position: relative;
+  z-index: 100;
 }
 .navbar-collapse {
    background-color: rgb(175, 18, 18);
 }
 .nav-link {
   color: white !important;
+  font-family: 'Petit Formal Script', cursive, sans-serif;
 }
 .nav-link:hover {
   color: black !important;
