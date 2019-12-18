@@ -40,7 +40,7 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Petit+Formal+Script|Courgette|Oxygen&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Petit+Formal+Script|Inria+Serif|Courgette|Oxygen&display=swap');
 .auteur {
   min-height: 92vh;
   background-color: rgb(207, 18, 18);
@@ -102,7 +102,7 @@ export default {
   }
 }
 .citation {
-  font-family: 'Petit Formal Script', cursive, sans-serif;
+  font-family: 'Inria Serif', cursive, sans-serif;
   color: white;
   font-size: 0.8em;
 }
