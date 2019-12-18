@@ -6,6 +6,9 @@
         <div class="text2">Littérature</div>
       </div>
       <img src="../assets/plume.png" alt="plume" class="imageAccueil">
+      <div>
+        <router-link to="/auteurs" class="listeDesAuteurs">Liste des auteurs</router-link>
+      </div>
     </div>
   </div>
 </template>
@@ -30,15 +33,12 @@ export default {
 .text1{
   margin: 0;
   font-family: 'Great Vibes', cursive, sans-serif;
-}
-@media screen and (min-width: 768px) {
-  .text1 {
-    font-size: 5em;
-  }
+  font-size: 5em;
 }
 .text2{
   margin: 0;
   font-family: 'Great Vibes', cursive, sans-serif;
+  font-size: 5em;
   transform: scaleY(-1);
   -webkit-mask-image: -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(20%, transparent), to(rgba(0, 0, 0, 0.7)));
 }
@@ -49,5 +49,14 @@ export default {
 }
 .imageAccueil {
   width: 15%;
+}
+.listeDesAuteurs {
+  font-size: 1em;
+  font-family: 'Petit Formal Script', cursive, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+.listeDesAuteurs:hover {
+  text-decoration: underline;
 }
 </style>
