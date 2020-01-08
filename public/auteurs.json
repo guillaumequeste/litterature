@@ -50,6 +50,40 @@
     "oeuvreCitation3": ""
 },
 {
+    "id": 700,
+    "nom": "Hemingway",
+    "prenom": "Ernest",
+    "date_de_naissance": "21 juillet 1899",
+    "lieu_de_naissance": "Oak Park",
+    "date_de_deces": "2 juillet 1961",
+    "lieu_de_deces": "Ketchum",
+    "photo": "hemingway.jpg",
+    "oeuvres_majeures": "Le soleil se lève aussi - L'Adieu aux armes - Les Neiges du Kilimandjaro - Pour qui sonne le glas - Le Viel Homme et la Mer - Paris est une fête (posthume, 1964)",
+    "citation1": "\"Dans tous les arts, le plaisir croît avec la connaissance que l'on a d'eux.\"",
+    "oeuvreCitation1": "Mort dans l'après-midi (1938)",
+    "citation2": "\"Un homme intelligent est parfois obligé d'être saoul pour passer du temps avec les imbéciles.\"",
+    "oeuvreCitation2": "",
+    "citation3": "\"Il n'y a rien de noble à être supérieur à vos semblables. La vraie noblesse est d'être supérieur à celui que vous avez été auparavant.\"",
+    "oeuvreCitation3": ""
+},
+{
+    "id": 790,
+    "nom": "Hugo",
+    "prenom": "Victor",
+    "date_de_naissance": "26 février 1802",
+    "lieu_de_naissance": "Besançon",
+    "date_de_deces": "22 mai 1885",
+    "lieu_de_deces": "Paris",
+    "photo": "hugo.jpg",
+    "oeuvres_majeures": "Notre-Dame de Paris - Les Misérables - Les Travailleurs de la mer - Les Contemplations - Hernani - Ruy Blas",
+    "citation1": "\"Mais si l'on ne peut pardonner, cela ne vaut pas la peine de vaincre.\"",
+    "oeuvreCitation1": "Quatre-vingt-treize",
+    "citation2": "\"On passe une moitié de sa vie à attendre ceux qu'on aimera et l'autre moitié à quitter ceux qu'on aime.\"",
+    "oeuvreCitation2": "Tas de pierres",
+    "citation3": "\"Lavenir, fantôme aux mains vides, qui promet tout et qui n'a rien !\"",
+    "oeuvreCitation3": "Les Voix intérieures"
+},
+{
     "id": 1200,
     "nom": "Molière",
     "prenom": "(Jean-Baptiste Poquelin)",
@@ -68,6 +102,23 @@
 },
 {
     "id": 1500,
+    "nom": "Perrault",
+    "prenom": "Charles",
+    "date_de_naissance": "12 janvier 1628",
+    "lieu_de_naissance": "Paris",
+    "date_de_deces": "16 mai 1703",
+    "lieu_de_deces": "Paris",
+    "photo": "perrault.jpg",
+    "oeuvres_majeures": "Peau d'âne - La Belle au bois dormant - Le Petit Chaperon rouge - Barbe-Bleue - Le Chat botté - Cendrillon - Riquet à la houppe - Le Petit Poucet - Les Contes de ma mère l'Oye",
+    "citation1": "\"Anne, ma soeur Anne, ne vois-tu rien venir ?\"",
+    "oeuvreCitation1": "Barbe-Bleue",
+    "citation2": "\"On n'est heureux qu'autant qu'on a souffert.\"",
+    "oeuvreCitation2": "Griselidis (La Marquise de Salusses)",
+    "citation3": "\"'Trop de bonté dans les parents cause la perte des enfants.\"",
+    "oeuvreCitation3": ""
+},
+{
+    "id": 1550,
     "nom": "Pouchkine",
     "prenom": "Alexandre",
     "date_de_naissance": "26 mai 1799",
@@ -118,6 +169,23 @@
     "oeuvreCitation3": "Bérénice, V, 7 (1670)"
 },
 {
+    "id": 1750,
+    "nom": "Rousseau",
+    "prenom": "Jean-Jacques",
+    "date_de_naissance": "28 juin 1712",
+    "lieu_de_naissance": "Genève",
+    "date_de_deces": "2 juillet 1778",
+    "lieu_de_deces": "Ermenonville",
+    "photo": "rousseau.jpg",
+    "oeuvres_majeures": "Du Contrat social - L'Encyclopédie (avec Diderot et d'Alembert)",
+    "citation1": "\"L'argent qu'on possède est l'instrument de la liberté, celui qu'on pourchasse est celui de la servitude.\"",
+    "oeuvreCitation1": "Les Confessions",
+    "citation2": "\"Qui rougit est déjà coupable, la vraie innocence n'a honte de rien.\"",
+    "oeuvreCitation2": "Emile, ou de l'Education",
+    "citation3": "\"Les lois sont toujours utiles à ceux qui possèedent et nuisibles à ceux qui n'ont rien.\"",
+    "oeuvreCitation3": "Du Contrat social"
+},
+{
     "id": 1800,
     "nom": "Shakespeare",
     "prenom": "William",
@@ -135,6 +203,23 @@
     "oeuvreCitation3": "Macbeth (1605)"
 },
 {
+    "id": 1900,
+    "nom": "Tolstoï",
+    "prenom": "Léon",
+    "date_de_naissance": "28 août 1828",
+    "lieu_de_naissance": "Iasnaïa Poliana",
+    "date_de_deces": "7 novembre 1910",
+    "lieu_de_deces": "Astapovo",
+    "photo": "tolstoi.jpg",
+    "oeuvres_majeures": "Guerre et Paix - Anna Karénine - La Mort d'Ivan Illitch - Résurrection",
+    "citation1": "\"Il n'y a pas d'autre amour que celui qui consiste à donner sa vie pour ceux qu'on aime.\"",
+    "oeuvreCitation1": "Dela vie (1889)",
+    "citation2": "\"En matière de sentiment, le manque de logique est la meilleure preuve de la sincérité.\"",
+    "oeuvreCitation2": "Songe d'une nuit d'été (1595)",
+    "citation3": "\"Tous les hommes font la même erreur, de s'imaginer que bonheur veut dire que tous les voeux se réalisent.\"",
+    "oeuvreCitation3": ""
+},
+{
     "id": 2100,
     "nom": "Valéry",
     "prenom": "Paul",
@@ -150,5 +235,22 @@
     "oeuvreCitation2": "Mauvaises pensées et autres",
     "citation3": "\"Les hommes se distinguent par ce qu'ils montrent et se ressemblent par ce qu'ils cachent.\"",
     "oeuvreCitation3": "Mélange"
+},
+{
+    "id": 2150,
+    "nom": "Voltaire",
+    "prenom": "(François-Marie Arouet)",
+    "date_de_naissance": "21 novembre 1694",
+    "lieu_de_naissance": "Paris",
+    "date_de_deces": "30 mai 1778",
+    "lieu_de_deces": "Paris",
+    "photo": "voltaire.png",
+    "oeuvres_majeures": "Lettres philosophiques - Zadig ou la Destinée - Candide ou l'Optimisme - Dictionnaire philosophique - L'Ingénu",
+    "citation1": "\"On parle toujours mal quand on n'a rien à dire.\"",
+    "oeuvreCitation1": "",
+    "citation2": "\"Le fanatisme est un monstre qui ose se dire le fils de la religion.\"",
+    "oeuvreCitation2": "",
+    "citation3": "\"Le malheur des uns fait le bonheur des autres.\"",
+    "oeuvreCitation3": ""
 }
 ]
