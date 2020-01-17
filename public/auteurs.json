@@ -713,6 +713,23 @@
         "oeuvreCitation3": ""
     },
     {
+        "id": 1990,
+        "nom": "Twain",
+        "prenom": "Mark",
+        "date_de_naissance": "30 novembre 1835",
+        "lieu_de_naissance": "Florida",
+        "date_de_deces": "21 avril 1910",
+        "lieu_de_deces": "Redding",
+        "photo": "twain.jpg",
+        "oeuvres_majeures": "Les Aventures de Tom Sawyer - Les Aventures de Huckleberry Finn",
+        "citation1": "\"Ils ne savaient pas que c'était impossible, alors ils l'ont fait.\"",
+        "oeuvreCitation1": "Les pensées et aphorismes (1835-1910)",
+        "citation2": "\"Dans le doute, dîtes la vérité.\"",
+        "oeuvreCitation2": "La tragédie de Pudd'nhead Wilson (1894)",
+        "citation3": "\"La gentillesse est le langage qu'un sourd peut entendre et qu'un aveugle peut voir\"",
+        "oeuvreCitation3": "Les pensées et aphorismes (1835-1910)"
+    },
+    {
         "id": 2100,
         "nom": "Valéry",
         "prenom": "Paul",
