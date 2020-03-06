@@ -152,6 +152,23 @@
         "oeuvreCitation3": ""
     },
     {
+        "id": 250,
+        "nom": "Chateaubriand",
+        "prenom": "François-René de",
+        "date_de_naissance": "4 septembre 1768",
+        "lieu_de_naissance": "Saint-Malo",
+        "date_de_deces": "4 juillet 1848",
+        "lieu_de_deces": "Paris",
+        "photo": "chateaubriand.jpg",
+        "oeuvres_majeures": "Atala - René - Génie du christianisme - Mémoires d'outre-tombe - Vie de Rancé",
+        "citation1": "\"Le péril s'évanouit quand on ose le regarder.\"",
+        "oeuvreCitation1": "Mémoires d'outre-tombe",
+        "citation2": "\"Les forêts précèdent les peuples, les déserts les suivent.\"",
+        "oeuvreCitation2": "",
+        "citation3": "\"Tant que le coeur conserve des souvenirs, l'esprit garde des illusions.”\"",
+        "oeuvreCitation3": ""
+    },
+    {
         "id": 260,
         "nom": "Corneille",
         "prenom": "Pierre",
@@ -405,6 +422,23 @@
         "oeuvreCitation2": "Le loup et l'agneau",
         "citation3": "\"Tel est pris qui croyait prendre.\"",
         "oeuvreCitation3": "Le rat et l'huître"
+    },
+    {
+        "id": 1150,
+        "nom": "Lamartine",
+        "prenom": "Alphonse de",
+        "date_de_naissance": "21 octobre 1790",
+        "lieu_de_naissance": "Mâcon",
+        "date_de_deces": "28 février 1869",
+        "lieu_de_deces": "Paris",
+        "photo": "lamartine.png",
+        "oeuvres_majeures": "Méditations poétiques - Harmonies poétiques et religieuses - Jocelyn - Graziella",
+        "citation1": "\"Un seul être vous manque et tout est dépeuplé.\"",
+        "oeuvreCitation1": "L'isolement (1815 - 1820)",
+        "citation2": "\"Le flambeau de l'étude éclaire la raison.\"",
+        "oeuvreCitation2": "Méditations poétiques, La retraite (1820)",
+        "citation3": "\"La coupe de mes jours s'est brisée encore pleine.\"",
+        "oeuvreCitation3": "Le poète mourant (1815 - 1820)"
     },
     {
         "id": 1200,
