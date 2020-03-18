@@ -662,6 +662,23 @@
         "oeuvreCitation3": "Sonnets"
     },
     {
+        "id": 1775,
+        "nom": "Rostand",
+        "prenom": "Edmond",
+        "date_de_naissance": "1er avril 1868",
+        "lieu_de_naissance": "Marseille",
+        "date_de_deces": "2 décembre 1918",
+        "lieu_de_deces": "Paris",
+        "photo": "rostand.jpg",
+        "oeuvres_majeures": "Cyrano de Bergerac - L'Aiglon - Chantecler",
+        "citation1": "\"Des larmes au baiser il n'y a qu'un frisson !”\"",
+        "oeuvreCitation1": "Cyrano de Bergerac, III, 10 (1897)",
+        "citation2": "\"La meilleure prière est la plus clandestine.\"",
+        "oeuvreCitation2": "La Samaritaine (1897)",
+        "citation3": "\"Les haines de races ne sont jamais au fond, que des haines de places.\"",
+        "oeuvreCitation3": "Chantecler, I, 1 (1904)"
+    },
+    {
         "id": 1780,
         "nom": "Rousseau",
         "prenom": "Jean-Jacques",
