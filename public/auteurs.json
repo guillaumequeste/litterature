@@ -900,6 +900,23 @@
         "oeuvreCitation3": ""
     },
     {
+        "id": 2400,
+        "nom": "Yourcenar",
+        "prenom": "Marguerite",
+        "date_de_naissance": "8 juin 1903",
+        "lieu_de_naissance": "Bruxelles",
+        "date_de_deces": "17 décembre 1987",
+        "lieu_de_deces": "Bar Harbor (Etats-Unis)",
+        "photo": "yourcenar.jpg",
+        "oeuvres_majeures": "Mémoires d'Hadrien - L'Oeuvre au noir - Nouvelles orientales - Alexis ou le Traité du vain combat - Mishima ou la Vision du vide",
+        "citation1": "\"Le silence est fait de paroles que l'on n'a pas dites.\"",
+        "oeuvreCitation1": "",
+        "citation2": "\"Personne ne sait encore si tout ne vit que pour mourir ou ne meurt que pour renaître.\"",
+        "oeuvreCitation2": "Anna, soror...",
+        "citation3": "\"Tout moment est dernier, parce qu'il est unique.\"",
+        "oeuvreCitation3": ""
+    },
+    {
         "id": 2500,
         "nom": "Zola",
         "prenom": "Emile",
