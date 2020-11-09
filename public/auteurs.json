@@ -33,6 +33,23 @@
         "oeuvreCitation3": ""
     },
     {
+        "id": 60,
+        "nom": "Aristote",
+        "prenom": "",
+        "date_de_naissance": "384 avant notre ère",
+        "lieu_de_naissance": "Grèce",
+        "date_de_deces": "322 avant notre ère",
+        "lieu_de_deces": "Grèce",
+        "photo": "aristote.jpg",
+        "oeuvres_majeures": "Catégories - Métaphysique - Physique - Politiques - Poétique",
+        "citation1": "\"Si la vertu ne suffit pas à assurer le bonheur, la méchanceté suffit à rendre malheureux.\"",
+        "oeuvreCitation1": "",
+        "citation2": "\"L'ignorant affirme, le savant doute, le sage réfléchit.\"",
+        "oeuvreCitation2": "",
+        "citation3": "\"Il n'y a pas une méthode unique pour étudier les choses.\"",
+        "oeuvreCitation3": ""
+    },
+    {
         "id": 70,
         "nom": "Aragon",
         "prenom": "Louis",
