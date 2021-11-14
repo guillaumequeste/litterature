@@ -441,6 +441,23 @@
         "oeuvreCitation3": "Les nuits de Sibérie"
     },
     {
+        "id": 1090,
+        "nom": "La Bruyère",
+        "prenom": "Jean de",
+        "date_de_naissance": "16 aoüt 1645",
+        "lieu_de_naissance": "Paris",
+        "date_de_deces": "11 mai 1696",
+        "lieu_de_deces": "Versailles",
+        "photo": "la_bruyere.jpeg",
+        "oeuvres_majeures": "Les caractères ou les moeurs de ce siècle",
+        "citation1": "\"Les plus grandes choses n'ont besoin que d'être dites simplement.\"",
+        "oeuvreCitation1": "",
+        "citation2": "\"Vouloir oublier quelqu'un, c'est y penser.\"",
+        "oeuvreCitation2": "",
+        "citation3": "\"L'éloquence est un don de l'âme, lequel nous rend maîtres du coeur et de l'esprit des autres.\"",
+        "oeuvreCitation3": ""
+    },
+    {
         "id": 1100,
         "nom": "La Fontaine",
         "prenom": "Jean de",
